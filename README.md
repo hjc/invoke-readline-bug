@@ -14,7 +14,7 @@ causing the "refresh".
 
 This is shown best by video: 
 
-![](https://asciinema.org/a/enggvan6f8c1c14b76g9ztxh0)
+[![asciicast](https://asciinema.org/a/enggvan6f8c1c14b76g9ztxh0.png)](https://asciinema.org/a/enggvan6f8c1c14b76g9ztxh0)
 
 ## Setup
 
