@@ -16,6 +16,8 @@ This is shown best by video:
 
 [![asciicast](https://asciinema.org/a/enggvan6f8c1c14b76g9ztxh0.png)](https://asciinema.org/a/enggvan6f8c1c14b76g9ztxh0)
 
+The full video is [here](https://asciinema.org/a/enggvan6f8c1c14b76g9ztxh0).
+
 ## Setup
 
 Just install a virtualenv and the latest invoke and you're good to go:
